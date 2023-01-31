@@ -1,0 +1,46 @@
+21 12 9
+59 32 81	9
+
+
+Gracz jeden z depth 1 wygral tyle razy: 59 z srednia ruchow 29.779661016949152
+Gracz jeden z depth 1 wygral tyle razy: 37 z srednia ruchow 32.432432432432435
+Remisow bylo: 4 z srednia ruchow 100.0
+
+Gracz jeden z depth 1 wygral tyle razy: 491 z srednia ruchow 29.830957230142566
+Gracz jeden z depth 1 wygral tyle razy: 428 z srednia ruchow 31.05607476635514
+Remisow bylo: 81 z srednia ruchow 100.0
+
+Gracz jeden z depth 2 wygral tyle razy: 390 z srednia ruchow 27.246153846153845
+Gracz jeden z depth 1 wygral tyle razy: 548 z srednia ruchow 25.967153284671532
+Remisow bylo: 62 z srednia ruchow 100.0
+
+Gracz jeden z depth 1 wygral tyle razy: 205 z srednia ruchow 27.848780487804877
+Gracz jeden z depth 2 wygral tyle razy: 266 z srednia ruchow 25.68421052631579
+Remisow bylo: 29 z srednia ruchow 100.0
+
+Gracz jeden z depth 2 wygral tyle razy: 134 z srednia ruchow 23.80597014925373
+Gracz jeden z depth 2 wygral tyle razy: 145 z srednia ruchow 26.193103448275863
+Remisow bylo: 21 z srednia ruchow 100.0
+
+Gracz jeden z depth 3 wygral tyle razy: 95 z srednia ruchow 27.94736842105263
+Gracz jeden z depth 1 wygral tyle razy: 91 z srednia ruchow 28.98901098901099
+Remisow bylo: 14 z srednia ruchow 100.0
+
+
+Gracz jeden z depth 1 wygral tyle razy: 99 z srednia ruchow 29.565656565656564
+Gracz jeden z depth 3 wygral tyle razy: 83 z srednia ruchow 31.301204819277107
+Remisow bylo: 18 z srednia ruchow 100.0
+
+Gracz jeden z depth 3 wygral tyle razy: 103 z srednia ruchow 26.864077669902912
+Gracz jeden z depth 2 wygral tyle razy: 79 z srednia ruchow 29.417721518987342
+Remisow bylo: 18 z srednia ruchow 100.0
+
+
+Gracz jeden z depth 4 wygral tyle razy: 55 z srednia ruchow 28.381818181818183
+Gracz jeden z depth 2 wygral tyle razy: 29 z srednia ruchow 30.482758620689655
+Remisow bylo: 16 z srednia ruchow 100.0
+
+Gracz jeden z depth 2 wygral tyle razy: 48 z srednia ruchow 26.291666666666668
+Gracz jeden z depth 5 wygral tyle razy: 46 z srednia ruchow 26.73913043478261
+Remisow bylo: 6 z srednia ruchow 100.0
+
